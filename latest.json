@@ -1,13 +1,13 @@
 {
-  "version": "1.1.0",
-  "versionCode": 1000001,
-  "versionName": "1.1.0",
-  "notes": "Find free books with matching audiobooks, see friends' books and get free copies, reader appearance (page colours, fonts, spacing, margins), vertical scroll, page-turn animations, and read aloud with your phone's voice. Fixes hard-to-read text on some books.",
-  "pub_date": "2026-11-04T01:54:42.415Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.0/Shelf-1.1.0.apk",
+  "version": "1.1.1",
+  "versionCode": 1001001,
+  "versionName": "1.1.1",
+  "notes": "Read aloud now works: this update adds the phone-voice part of the app. Tap Update once.",
+  "pub_date": "2026-11-04T01:56:30.383Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.1/Shelf-1.1.1.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.0/Shelf-1.1.0-web.zip",
-    "sha256": "75e9c38f0cfe517ded14168f7795a4f48058cc2c3585386b170cac20a16f40f3",
-    "minBuild": 1000001
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.1/Shelf-1.1.1-web.zip",
+    "sha256": "e2c646dd9e3bc882657c3ff4d01f42b53166d9f5c4852349c3f9fa05fe92e321",
+    "minBuild": 1001001
   }
 }
