@@ -1,13 +1,13 @@
 {
-  "version": "1.2.0",
-  "versionCode": 1002000,
-  "versionName": "1.2.0",
-  "notes": "Natural AI voice for Read aloud: free, runs on your phone, works offline. Pick from 11 voices in Aa. Tap Update once; the voice is a one-time 103 MB download the first time you use Read aloud.",
-  "pub_date": "2026-11-04T18:41:57.530Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.2.0/Shelf-1.2.0.apk",
+  "version": "1.3.0",
+  "versionCode": 1003000,
+  "versionName": "1.3.0",
+  "notes": "28 natural AI voices for Read aloud (Heart is the default, best for reading), and speed from 0.5x to 3x that changes instantly. Tap Update once; the new voices are a one-time 127 MB download the first time you use Read aloud.",
+  "pub_date": "2026-11-04T21:01:45.514Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.3.0/Shelf-1.3.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.2.0/Shelf-1.2.0-web.zip",
-    "sha256": "04f231cda799488baa3da0d2a2d1d5d41edb90640076e4a526892a2a612295b1",
-    "minBuild": 1002000
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.3.0/Shelf-1.3.0-web.zip",
+    "sha256": "6ead50f3b09df0a54c85ebb026c1456b92fc6c380d43a6babd998729598ec8c4",
+    "minBuild": 1003000
   }
 }
