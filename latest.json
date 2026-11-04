@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "versionCode": 1000001,
+  "versionName": "1.0.1",
+  "notes": "First release of Shelf: library, EPUB/PDF reader, PDF to EPUB, audiobooks synced with books, friends, light and dark mode, automatic updates",
+  "pub_date": "2026-11-04T00:28:28.049Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.0.1/Shelf-1.0.1.apk",
+  "bundle": {
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.0.1/Shelf-1.0.1-web.zip",
+    "sha256": "ff777c96222173383bacde4025e3c56f1d76949a3e2a7f70724fc12997ca23a7",
+    "minBuild": 1000001
+  }
+}
