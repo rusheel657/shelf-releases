@@ -1,13 +1,13 @@
 {
-  "version": "1.3.1",
-  "versionCode": 1003001,
-  "versionName": "1.3.1",
-  "notes": "Fixes the AI voices staying silent: they now start speaking straight away.",
-  "pub_date": "2026-11-04T23:14:33.056Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.3.1/Shelf-1.3.1.apk",
+  "version": "1.4.0",
+  "versionCode": 1004000,
+  "versionName": "1.4.0",
+  "notes": "New read-aloud voices: 14 natural voices that keep up on any phone (Lessac by default). Each is a small download the first time you pick it.",
+  "pub_date": "2026-11-04T23:45:36.536Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.0/Shelf-1.4.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.3.1/Shelf-1.3.1-web.zip",
-    "sha256": "2cfb9bfc5fc7545d7bde2ad4c151b21264f297551eea0b073d5e9daefc83197d",
-    "minBuild": 1003001
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.0/Shelf-1.4.0-web.zip",
+    "sha256": "9332be4a62d7feff2b5617b2d93d620ab4b092841d88ab4df1f9aeffe3144a0e",
+    "minBuild": 1004000
   }
 }
