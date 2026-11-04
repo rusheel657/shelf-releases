@@ -1,13 +1,13 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "versionCode": 1004000,
-  "versionName": "1.4.0",
-  "notes": "New read-aloud voices: 14 natural voices that keep up on any phone (Lessac by default). Each is a small download the first time you pick it.",
-  "pub_date": "2026-11-04T23:45:36.536Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.0/Shelf-1.4.0.apk",
+  "versionName": "1.4.1",
+  "notes": "Audiobook downloads no longer fail when archive.org hiccups on one part; Try again carries on where it stopped.",
+  "pub_date": "2026-11-04T23:55:28.458Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.1/Shelf-1.4.1.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.0/Shelf-1.4.0-web.zip",
-    "sha256": "9332be4a62d7feff2b5617b2d93d620ab4b092841d88ab4df1f9aeffe3144a0e",
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.1/Shelf-1.4.1-web.zip",
+    "sha256": "7c7a5fbb865643aa890f010ff4108af81bdeb947e7a86e9b3ab0fb95e5ad5c92",
     "minBuild": 1004000
   }
 }
