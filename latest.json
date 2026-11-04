@@ -1,13 +1,13 @@
 {
-  "version": "1.1.1",
-  "versionCode": 1001001,
-  "versionName": "1.1.1",
-  "notes": "Read aloud now works: this update adds the phone-voice part of the app. Tap Update once.",
-  "pub_date": "2026-11-04T01:56:30.383Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.1/Shelf-1.1.1.apk",
+  "version": "1.2.0",
+  "versionCode": 1002000,
+  "versionName": "1.2.0",
+  "notes": "Natural AI voice for Read aloud: free, runs on your phone, works offline. Pick from 11 voices in Aa. Tap Update once; the voice is a one-time 103 MB download the first time you use Read aloud.",
+  "pub_date": "2026-11-04T18:41:57.530Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.2.0/Shelf-1.2.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.1.1/Shelf-1.1.1-web.zip",
-    "sha256": "e2c646dd9e3bc882657c3ff4d01f42b53166d9f5c4852349c3f9fa05fe92e321",
-    "minBuild": 1001001
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.2.0/Shelf-1.2.0-web.zip",
+    "sha256": "04f231cda799488baa3da0d2a2d1d5d41edb90640076e4a526892a2a612295b1",
+    "minBuild": 1002000
   }
 }
