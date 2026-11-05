@@ -1,13 +1,13 @@
 {
-  "version": "1.4.1",
-  "versionCode": 1004000,
-  "versionName": "1.4.1",
-  "notes": "Audiobook downloads no longer fail when archive.org hiccups on one part; Try again carries on where it stopped.",
-  "pub_date": "2026-11-04T23:55:28.458Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.1/Shelf-1.4.1.apk",
+  "version": "1.5.0",
+  "versionCode": 1005000,
+  "versionName": "1.5.0",
+  "notes": "The natural voices are back (Heart by default), now tuned to keep up on your phone. The plainer fast voices stay as a backup in Aa.",
+  "pub_date": "2026-11-05T00:32:37.258Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.5.0/Shelf-1.5.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.4.1/Shelf-1.4.1-web.zip",
-    "sha256": "7c7a5fbb865643aa890f010ff4108af81bdeb947e7a86e9b3ab0fb95e5ad5c92",
-    "minBuild": 1004000
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.5.0/Shelf-1.5.0-web.zip",
+    "sha256": "0bed0cc335c8b67180cc67d1dcacba8d9b9c6548845ca3be21bf723d93ac077a",
+    "minBuild": 1005000
   }
 }
