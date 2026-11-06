@@ -1,13 +1,13 @@
 {
-  "version": "1.7.0",
-  "versionCode": 1007000,
-  "versionName": "1.7.0",
-  "notes": "New Playlists tab: add audio or videos (only the sound is kept) and make playlists. Everything now keeps playing with the screen off, with lock-screen controls. Link an audiobook to its book from its player.",
-  "pub_date": "2026-11-06T00:05:43.015Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.7.0/Shelf-1.7.0.apk",
+  "version": "1.8.0",
+  "versionCode": 1008000,
+  "versionName": "1.8.0",
+  "notes": "Read from here now opens the book on the exact word the audiobook just said, highlighted (EPUBs; a one-time 29 MB download the first time).",
+  "pub_date": "2026-11-06T15:07:41.527Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.8.0/Shelf-1.8.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.7.0/Shelf-1.7.0-web.zip",
-    "sha256": "e31137bccc7b8550cd2ebae2c232da83b1331f6c66a95b86653ad86b279be8b6",
-    "minBuild": 1007000
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.8.0/Shelf-1.8.0-web.zip",
+    "sha256": "9723e6c19a93663c5ca39f1d61e539a6093de7efecc66780cc127a076f4130fb",
+    "minBuild": 1008000
   }
 }
