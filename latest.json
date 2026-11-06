@@ -1,13 +1,13 @@
 {
-  "version": "1.6.0",
-  "versionCode": 1006000,
-  "versionName": "1.6.0",
-  "notes": "Read aloud is gone: it couldn't sound good enough on a phone. Use audiobooks instead (free LibriVox ones, or ones made on the Mac). Frees up to 140 MB of voice files.",
-  "pub_date": "2026-11-05T20:17:08.892Z",
-  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.6.0/Shelf-1.6.0.apk",
+  "version": "1.7.0",
+  "versionCode": 1007000,
+  "versionName": "1.7.0",
+  "notes": "New Playlists tab: add audio or videos (only the sound is kept) and make playlists. Everything now keeps playing with the screen off, with lock-screen controls. Link an audiobook to its book from its player.",
+  "pub_date": "2026-11-06T00:05:43.015Z",
+  "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.7.0/Shelf-1.7.0.apk",
   "bundle": {
-    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.6.0/Shelf-1.6.0-web.zip",
-    "sha256": "6a7d2d8e15bdf07a7c6b88d4c02a9d271f5d27b9a936638e17d69bfc874abaae",
-    "minBuild": 1006000
+    "url": "https://github.com/rusheel657/shelf-releases/releases/download/v1.7.0/Shelf-1.7.0-web.zip",
+    "sha256": "e31137bccc7b8550cd2ebae2c232da83b1331f6c66a95b86653ad86b279be8b6",
+    "minBuild": 1007000
   }
 }
